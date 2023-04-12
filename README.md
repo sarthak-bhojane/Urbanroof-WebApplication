@@ -2,20 +2,23 @@
 Urbanroof-WebApplication Assignment Task
 
 
-open index file to open project
+INSTRUCTION - Open index file to open project
 
 Home Screen Page
-![Home Screen](https://user-images.githubusercontent.com/105963807/231564705-4958b17c-e515-4cfc-9148-ca34be290368.png)
+![Home Screen](https://user-images.githubusercontent.com/105963807/231566485-4d91a511-afab-447d-890d-8141f27ba806.png)
+
 
 Clickable DIY kit listening
-![DIY kit listening](https://user-images.githubusercontent.com/105963807/231564769-e6a9849c-2ca3-4858-98b4-349818d81922.png)
+![DIY kit listening](https://user-images.githubusercontent.com/105963807/231566513-f0bc9ccc-5b60-4d7a-8d00-015e1c9a69f4.png)
+
 
 Clickable Self Assesment Tool
-![Self Assesment Tool](https://user-images.githubusercontent.com/105963807/231564789-ff6d9b80-bbc2-4820-9e77-bfb6542a01da.png)
+![Self Assesment Tool](https://user-images.githubusercontent.com/105963807/231566535-45b90edf-d9c6-4b53-8ab9-990d07afcbdf.png)
+
 
 Login Page
-![Login](https://user-images.githubusercontent.com/105963807/231564811-f42a73a8-eaaa-4702-aec9-494d68f28388.png)
+![Login](https://user-images.githubusercontent.com/105963807/231566556-5d0a9ad0-4d68-4ff0-a182-bb3be867c7a9.png)
+
 
 SignUp Page
-![SignUp](https://user-images.githubusercontent.com/105963807/231564829-492d961b-a0b9-4720-826e-8b15f837e1e5.png)
-
+![SignUp](https://user-images.githubusercontent.com/105963807/231566572-2eb5694b-9214-4712-9a9c-c43fcc7b405b.png)
