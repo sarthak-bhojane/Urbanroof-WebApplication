@@ -4,8 +4,12 @@ Urbanroof-WebApplication Assignment Task
 
 INSTRUCTION - Open index file to open project
 
-Home Screen Page
+Home Screen Page with chatbot support
 ![Home Screen](https://user-images.githubusercontent.com/105963807/231566485-4d91a511-afab-447d-890d-8141f27ba806.png)
+
+
+Chatbot
+![Chatbot](https://user-images.githubusercontent.com/105963807/231567227-06b3fac5-4b0f-470b-a893-0ff264643054.png)
 
 
 Clickable DIY kit listening
