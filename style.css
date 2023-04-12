@@ -1,0 +1,163 @@
+html {
+    font-size: 17px;
+    scroll-behavior: smooth;
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+    background-color: teal;
+    text-align: center;
+    font-style: oblique;
+    margin: 1px;
+    font-size: 2.5rem;
+    padding: 16%;
+}
+
+body {
+    font-family: 'montserrat', sans-serif, Verdana, Tahoma;
+    background-color: lightgoldenrodyellow;
+    /* background-image: url("Urbanroof.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; */
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    float: inline-start;
+    margin-right: -507px;
+    margin-left: 548px;
+    margin-top: 0px;
+    margin-bottom: -18px;
+}
+
+nav {
+    background-color: black;
+    overflow: hidden;
+}
+
+span {
+    background-color: rgb(240, 183, 118);
+    overflow: hidden;
+    position: fixed;
+    margin-left: -1051px;
+    padding: 18px;
+    margin-top: -14px;
+    text-align: left;
+    display: ruby;
+}
+
+span a {
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    margin-right: 201px;
+    margin-left: 58px;
+}
+
+
+nav img {
+    height: 47px;
+    display: table-cell;
+
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+/* .img1{
+    margin-top: 0px;
+}
+.img2{
+    margin-top: -81px;
+margin-bottom: 12px;
+margin-left: 740px;
+} */
+nav a:hover {
+    color: tomato;
+}
+
+nav a:visited {
+    color: royalblue;
+}
+
+/* 
+.tes {
+    display: inline-block;
+}
+
+.tes-s {
+    display: inline-block;
+}
+
+.tes-e {
+    display: inline-block;
+} */
+.c {
+    /* display: inline-block;
+	width: 50%;
+	height: 100%; */
+    display: table-cell;
+    width: inherit%;
+    height: 100%;
+
+}
+
+.c img {
+    border-radius: 70%;
+    height: 20rem;
+    width: 22rem;
+}
+
+.c11 {
+    display: ruby-text;
+    margin-top: 159px;
+    margin-right: 205px;
+    margin-left: 22px;
+}
+
+.c11 p {
+    text-align: center;
+    margin: -137px;
+}
+
+.c11 img {
+    border-radius: 67%;
+    height: 8rem;
+    width: 10rem;
+    margin-right: 60px;
+}
+
+#pp {
+    width: 65%;
+    height: 90px;
+    white-space: nowrap;
+}
+
+#userBox {
+
+    text-align: bottom;
+
+}
+
+#img4 {
+    border-radius: 40%;
+    height: 5%;
+    width: 10%;
+    padding-top: 300%;
+    padding-left: 91%;
+}
+
+.img4 {
+    padding-top: -8%;
+}
